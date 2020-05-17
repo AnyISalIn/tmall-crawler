@@ -10,7 +10,7 @@ setup(name='tmall_crawler',
           'selenium==3.4.3',
           'celery==4.0.2',
           'bs4==0.0.1',
-          'requests==2.12.4'
+          'requests==2.20.0'
       ],
       entry_points={
           'console_scripts': [
